@@ -1,16 +1,1 @@
-# uidemo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+再别人基础上改动flutter雷达扫描测试demo![微信图片_20230718172033](https://github.com/hstk1993/flutter-radar-scan/assets/50353972/daa01c31-da08-4f10-a917-375d9c48acdc)
